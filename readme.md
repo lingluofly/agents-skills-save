@@ -1,0 +1,1 @@
+这里是个人在各种情况下需要chatbot给出符合场景符合要求的产出时总结的各种skill，如果有更多skill需要，可在github上**`gitliuyun/De-AI-Prompt-Enhancer-Writer-Booster-SKILL`**找你喜欢/需要的skill，就这样
